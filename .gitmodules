@@ -1,0 +1,6 @@
+[submodule "py-hanspell"]
+	path = py-hanspell
+	url = https://github.com/ssut/py-hanspell.git
+[submodule "alfred-workflow-py3"]
+	path = alfred-workflow-py3
+	url = https://github.com/kw-lee/alfred-workflow-py3.git

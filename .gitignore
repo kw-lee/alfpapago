@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+workflow/lib/*
+*.spec
+build
+dist

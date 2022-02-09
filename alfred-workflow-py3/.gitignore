@@ -1,0 +1,20 @@
+*.log
+*.pyc
+*.egg-info
+/dist
+
+# virtual env
+/venv
+
+# tests
+/coverage_report
+/coverage.xml
+.coverage
+.coverage.*
+.tox
+
+# tests data
+info.plist
+
+
+temp_*.py
