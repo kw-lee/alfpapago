@@ -5,7 +5,8 @@ Papago Translation Workflow for Alfred
 
 Alfred에서 네이버 파파고 번역을 실시하는 워크플로우
 
-https://github.com/spearkkk/alfred-workflow/blob/master/papago/Papago.alfredworkflow 워크플로우를 기반으로 제작하였습니다.
+* 이 워크플로우는 https://github.com/spearkkk/alfred-workflow/blob/master/papago/Papago.alfredworkflow 가 Python 3 환경에서 작동하도록 수정한 것입니다.
+* 워크플로우를 만들어주신 [spearkkk](https://github.com/spearkkk)님께 감사의 말씀을 드립니다.
 
 Install workflow
 --------------
@@ -42,6 +43,10 @@ Requirements
 git submodule update --init --recursive
 pip install -r requirements.txt -t workflow/lib
 ```
+
+License
+--------------
+- requests library (Apache License 2.0)
 
 Changelog
 --------------
