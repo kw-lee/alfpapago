@@ -22,7 +22,7 @@ Settings
 
 Usage
 --------------
-* `papago {query}` {query} 자리에 원하는 문장을 입력하면 파파고 번역 결과와 원본 텍스트를 복사하실 수 있습니다.
+* `ppg {query}` {query} 자리에 원하는 문장을 입력하면 파파고 번역 결과와 원본 텍스트를 복사하실 수 있습니다.
 
 ![papago test](papago_test.gif)
 
